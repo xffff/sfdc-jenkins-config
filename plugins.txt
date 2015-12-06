@@ -3,3 +3,7 @@ git:2.4.0
 credentials:1.22
 github-api:1.69
 github:1.14.0
+ircbot:2.26
+ci-game:1.16
+analysis-core:1.0
+instant-messaging:1.32
