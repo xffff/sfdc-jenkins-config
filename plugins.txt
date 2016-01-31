@@ -1,5 +1,14 @@
 plain-credentials:1.1
-git:2.4.0
+git:2.4.1
+scm-api:1.0
+token-macro:1.11
+promoted-builds:2.24
+git-client:1.19.0
+parameterized-trigger:2.4
+matrix-project:1.6
+credentials:1.24
+mailer:1.16
+ssh-credentials:1.11
 credentials:1.22
 github-api:1.69
 github:1.14.0
